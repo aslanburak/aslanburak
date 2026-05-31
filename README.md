@@ -43,12 +43,6 @@
 
 ---
 
-## 💼 Deneyim
-
-**Long-Term Intern — Ithinka Information Technologies** *(Eyl 2024 – Oca 2025)*  
-ASP.NET Core MVC ile web uygulamaları geliştirdim, RESTful API tasarladım, EF Core & LINQ ile veri erişim katmanları kurdum. SOLID prensiplerine uygun N-tier mimari uyguladım.
-
----
 
 ## 🚀 Projeler
 
@@ -59,15 +53,6 @@ ASP.NET Core MVC ile web uygulamaları geliştirdim, RESTful API tasarladım, EF
 | [🤖 RAG Telegram Bot](https://github.com/aslanburak/BTU-Yonetmelik-Telegram-Bot-RAG) | Üniversite yönetmelikleri için AI destekli Telegram botu | Python, GPT-4.1, RAG, text-embedding-3-large |
 | [🏭 Factory Management](https://github.com/aslanburak/FactoryManagement) | Fabrika envanter takip, depo transferi ve onay akışı sistemi | ASP.NET Core MVC, EF Core, N-Tier, MSSQL |
 | [📦 Cargo Tracking](https://github.com/aslanburak/CargoProject-Asp.Net-MongoDB) | NoSQL tabanlı kargo takip uygulaması | ASP.NET Core, MongoDB |
-
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslanburak&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslanburak&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
